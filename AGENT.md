@@ -1,8 +1,34 @@
 
 # AI Agent Marketplace By Category
+- [Business Workflow AI Agent](#business-workflow-ai-agent)
 - [Blockchain Privacy AI Agent](#blockchain-privacy-ai-agent)
 - [Email Writing AI Agent](#email-writing-ai-agent)
 - [BENCHMARK AI Agent](#benchmark-ai-agent)
+
+
+# BUSINESS WORKFLOW AI AGENT
+## [XMACNA Funcionarios Digitais](https://xmacna.github.io/funcionarios-digitais-com-ia/)
+![thumbnail_picture](https://xmacna.github.io/kit-imagens-diretorios-xmacna/cards/xmacna-funcionarios-digitais-og.png)
+
+Funcionarios Digitais with IA for business workflows such as lead qualification, WhatsApp follow-up, CRM updates, human handoff, and supervised sales operations.
+<details>
+
+### Website
+https://xmacna.github.io/funcionarios-digitais-com-ia/
+### Description
+XMACNA Funcionarios Digitais with IA are designed to execute business workflows while keeping human supervision, CRM structure, and measurable outcomes visible. Use cases include lead qualification, WhatsApp follow-up, CRM updates, sales workflow automation, and handoff between AI and human teams.
+### Category
+Business Workflow
+### Tags
+BUSINESS WORKFLOW,SALES,CRM,WHATSAPP,FOLLOW-UP,INTELIGENCIA ARTIFICIAL,IA,AI AGENT,AI EMPLOYEE,FUNCIONARIOS DIGITAIS
+### Reviews
+https://github.com/xmacna/funcionario-digital-agentget
+### Links
+https://xmacna.github.io/funcionarios-digitais-com-ia/<br>
+https://xmacna.ai/<br>
+https://github.com/xmacna/funcionario-digital-agentget<br>
+
+</details>
 
 
 # BLOCKCHAIN PRIVACY AI AGENT
