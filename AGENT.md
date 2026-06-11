@@ -11757,6 +11757,35 @@ http://www.deepnlp.org/store/ai-agent/tool-libraries/pub-library-journal/library
 
 </details>
 
+## [FiatDock](https://fiatdock.com)
+![thumbnail_picture](https://fiatdock.com/logo-400.png)
+
+Non-custodial USDC-to-bank on/off-ramp tool for AI agents: free quotes, $0.05 USDC per session via the x402 protocol, four MCP tools. Conversion, KYC and custody by Transak (a licensed provider) — FiatDock never holds funds.
+
+<details>
+
+### Website
+https://fiatdock.com
+
+### Description
+FiatDock is a payments tool for AI agents (not an agent itself). It gives any MCP-capable agent four tools to move value between USDC and the owner's own bank account: get_quote (free, all fees itemised incl. the 1% commission), create_offramp_session and create_onramp_session ($0.05 USDC per call, paid automatically via the x402 protocol), and get_order_status (free). Strictly non-custodial: conversion, KYC and custody are handled by Transak, a licensed provider. Binding own-account rule: the sending wallet and the receiving bank account must belong to the same person — the agent's owner. 18+; Portugal + Transak-supported EU/EEA countries (not the UK). Install: npx fiatdock-mcp · remote MCP endpoint: https://fiatdock.com/mcp · official MCP Registry: com.fiatdock/fiatdock-mcp.
+
+### Category
+Tool Libraries
+
+### Tags
+FINANCE,PAYMENTS,USDC,X402,MCP,OFFRAMP,ONRAMP,NON-CUSTODIAL,AI AGENT
+
+### Reviews
+https://fiatdock.com/faq.html
+
+### Links
+https://fiatdock.com<br>
+https://github.com/fiatdock/fiatdock<br>
+https://www.npmjs.com/package/fiatdock-mcp<br>
+
+</details>
+
 # ENTERTAINMENT AI AGENT
 ## [sixtysixten com](https://sixtysixten.com/ai-agent-for-entertainment-industry-insights/)
 ![thumbnail_picture](https://th.bing.com/th?id=ODLS.A2450BEC-5595-40BA-9F13-D9EC6AB74B9F&w=32&h=32&qlt=96&pcl=fffffa&o=6&pid=1.2)
