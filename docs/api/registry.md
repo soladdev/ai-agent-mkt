@@ -6,7 +6,7 @@ List of Methods that you can register your AI agent. Recommended method using th
 | method  | usage                                                                                                                                          |
 |---------|------------------------------------------------------------------------------------------------------------------------------------------------| 
 | Website | Submit and list your AI Agent meta using the website [Submit official AI Agent registry Web](https://www.deepnlp.org/workspace/my_ai_services) |
-| CLI     | Command Line `agtm upload --github` or `agtm upload --config ./agent.json`                                                                     |
+| CLI     | Command Line `agtm upload --github` or `agtm upload --config ./examples/agent.json`                                                                     |
 | python  | Install packages `pip install ai-agent-marketplace`                                                                                            |
 | nodejs  | Install packages  `npm install -g @aiagenta2z/agtm`                                                                                            |
 
@@ -19,17 +19,17 @@ export AI_AGENT_MARKETPLACE_ACCESS_KEY="{your_access_key}"
 agtm upload --github https://github.com/AI-Hub-Admin/My-First-AI-Coding-Agent
 
 ## upload from json file or yaml file
-agtm upload --config ./agent.json
-agtm upload --config ./agent.yaml
+agtm upload --config ./examples/agent.json
+agtm upload --config ./examples/agent.yaml
 ```
 
-Demo examples can be found in ./agent.json or ./agent.yaml
+Demo examples can be found in [examples/agent.json](../../examples/agent.json) or [examples/agent.yaml](../../examples/agent.yaml)
 
 **Setup Your Own Endpoint or Schema**
 
 Please visit the command line github package [agtm](https://github.com/aiagenta2z/agtm) detailed usage
 ```
-agtm upload --config ./agent.json --endpoint https://www.example.com --schema ./schema.json
+agtm upload --config ./examples/agent.json --endpoint https://www.example.com --schema ./schema.json
 ```
 
 For test API Key, please set variable of AI_AGENT_MARKETPLACE_ACCESS_KEY
@@ -38,11 +38,11 @@ export AI_AGENT_MARKETPLACE_ACCESS_KEY="TEST_KEY_AI_AGENT_REGISTRY"
 ```
 
 ```
-agtm upload --config ./agent.json --endpoint https://www.deepnlp.org/api/ai_agent_marketplace/registry --schema ./schema.json
+agtm upload --config ./examples/agent.json --endpoint https://www.deepnlp.org/api/ai_agent_marketplace/registry --schema ./schema.json
 
 # or 
 
-agtm upload --config ./agent.json --endpoint https://www.aiagenta2z.com/api/ai_agent_marketplace/registry --schema ./schema.json
+agtm upload --config ./examples/agent.yaml --endpoint https://www.aiagenta2z.com/api/ai_agent_marketplace/registry --schema ./schema.json
 ```
 
 

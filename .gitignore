@@ -1,8 +1,28 @@
-.DS_store
-*.DS_store
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project
 /bak
 ./bak
 run_ai_agent_marketplace.sh
 release/
-.idea/
-

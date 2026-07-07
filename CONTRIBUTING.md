@@ -1,7 +1,6 @@
 ## Contributing Guideline
 
-We recommend to submit your AI Agent to the ai-agent-marketplace using web submission page [Submit Your Agent](https://deepnlp.org/workspace/api_dashboard), or `agtm` package method. 
-Also if you want to commit to the markdown AGENT.md, we would like to help you sync data to the website index.
+We recommend submitting your AI Agent via the [web submission page](https://deepnlp.org/workspace/api_dashboard) or the [`agtm`](https://github.com/aiagenta2z/agtm) CLI. To contribute to the community directory in `AGENT.md`, follow the format below — we sync approved entries to the website index.
 
 
 #### Pull Request PR Format
