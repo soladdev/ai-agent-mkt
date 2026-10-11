@@ -36063,3 +36063,24 @@ P2P,DHT,GOSSIP,RAFT,MESH,DISTRIBUTED,AGENT,HOMOMORPHIC,PYTHON
 https://github.com/Mr9669/ly-trinity-node-06111033<br>
 
 </details>
+
+# AI AGENT PLATFORM
+## [Tale](https://tale.dev/)
+
+Shared workspace for assigning tasks to reusable AI agents, running coding harnesses in sandboxes, and reviewing deliverables.
+<details>
+
+### Website
+https://tale.dev/
+### Description
+Tale is a shared workspace for AI-agent collaboration. Teams can assign tasks to reusable agents, run coding harnesses in sandboxes, and review deliverables in one workspace.
+### Category
+AI Agent Platform
+### Tags
+AI AGENT,AI AGENT PLATFORM,WORKSPACE,CODING AGENTS,SANDBOX,TEAM COLLABORATION
+### Reviews
+
+### Links
+https://tale.dev<br>
+
+</details>
